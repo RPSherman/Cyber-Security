@@ -9,3 +9,5 @@ My professional statement is for cyber security recruiters.
 My stengths, values, and interest play into the needs of a cyber security professional.
 
 I am enthusiastic about continuous learning and the development skills in the cybersecurity profession. My stengths of strong communication, adaptability, and problem solving and my values of helping and protecting vulnerable people compliment the needs of a cyber security analyst and meet the security goals of an organization.
+
+My name is Patrick Sherman. I have a wide range of professional experience from working in accounting, finance, animation, retail, that translates to transferrable skills into cybersecurity. I hope that completing the Google cybersecurity certificate program will set up a solid foundation and understanding for me embarking in the cybersecurity industry.
